@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\bin\Debug\net8.0\Array2TipoClasse.exe
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\bin\Debug\net8.0\Array2TipoClasse.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\bin\Debug\net8.0\Array2TipoClasse.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\bin\Debug\net8.0\Array2TipoClasse.dll
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\bin\Debug\net8.0\Array2TipoClasse.pdb
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.dll
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\refint\Array2TipoClasse.dll
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.pdb
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\Array2TipoClasse.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Array2TipoClasse\obj\Debug\net8.0\ref\Array2TipoClasse.dll
